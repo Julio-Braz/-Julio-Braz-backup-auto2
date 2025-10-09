@@ -1,0 +1,12 @@
+{
+  "createdAt": "2025-10-09T23:41:14.294Z",
+  "updatedAt": "2025-10-09T23:48:03.894Z",
+  "id": "0nJ7h2ovltdtBAXM",
+  "name": "n8n account",
+  "data": {
+    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1NjZjZmVmOC03N2Q1LTQ5MTEtODRjYy01YjVhNDA4M2I0NjIiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzYwMDUzMzc5fQ.mkqPQJDZSXyRhcC1MFkmvZpTdOcEfbNe0p1_uqDpiTA",
+    "baseUrl": "https://auto2.automatisales.com.br/api/v1"
+  },
+  "type": "n8nApi",
+  "isManaged": false
+}
